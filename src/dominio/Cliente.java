@@ -1,6 +1,6 @@
 /*
 Cliente.java
-Clase para gestionar los datos correspondientes a los clientes del negocio
+Clase para gestionar los datos correspondientes a los clientes del negocio jajaja
  */
 
 package dominio;
